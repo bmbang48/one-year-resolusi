@@ -3,3 +3,5 @@ My Resolution
 - Konsisten Dalam Belajar Program
 - Membuat Portfolio
 - Membuat Cloning Web
+- Online Shop Website
+- Share Program di github
